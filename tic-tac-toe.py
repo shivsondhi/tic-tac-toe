@@ -1,6 +1,6 @@
 '''
 Tic Tac Toe!
-Made by me, not sure how this should work more efficiently.
+Made by me, not sure how this should work more efficiently, but this is where I'll implement everything I learn. 
 
 Notes:
 For functions, the argument and parameter order is tilerow, tilecol; but while traversing or accessing the board data structure, order is tilecol and then tilerow.
